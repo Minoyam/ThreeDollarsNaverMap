@@ -45,5 +45,6 @@ dependencies {
     androidTestImplementation(Dependency.Test.ANDROIDX_ESPRESSO)
 
     implementation(Dependency.Naver.NAVER_MAP)
+    implementation(Dependency.Google.GOOGLE_LOCATION)
 
 }

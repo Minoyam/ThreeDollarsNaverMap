@@ -29,6 +29,10 @@ object Dependency {
 
     object Naver {
         const val NAVER_MAP = "com.naver.maps:map-sdk:${Versions.NAVER_MAP}"
-
     }
+
+    object Google {
+        const val GOOGLE_LOCATION = "com.google.android.gms:play-services-location:${Versions.GOOGLE_LOCATION}"
+    }
+
 }

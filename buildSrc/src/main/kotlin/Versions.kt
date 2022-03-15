@@ -13,4 +13,6 @@ object Versions {
     const val ANDROIDX_ESPRESSO = "3.4.0"
 
     const val NAVER_MAP = "3.12.0"
+
+    const val GOOGLE_LOCATION = "19.0.1"
 }

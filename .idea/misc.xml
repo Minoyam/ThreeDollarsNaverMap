@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/ysj/AndroidStudioProjects/ThreeDollarsNaverMap/app/naverMap/src/main/res/layout/fragment_naver_map.xml" value="0.2515625" />
         <entry key="..\:/Users/ysj/AndroidStudioProjects/ThreeDollarsNaverMap/app/naverMap/src/main/res/layout/item_naver_map.xml" value="0.2515625" />
-        <entry key="..\:/Users/ysj/AndroidStudioProjects/ThreeDollarsNaverMap/app/src/main/res/layout/activity_main.xml" value="0.4921875" />
+        <entry key="..\:/Users/ysj/AndroidStudioProjects/ThreeDollarsNaverMap/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ysj/AndroidStudioProjects/ThreeDollarsNaverMap/naverMap/src/main/res/layout/fragment_naver_map.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/ysj/AndroidStudioProjects/ThreeDollarsNaverMap/naverMap/src/main/res/layout/item_naver_map.xml" value="0.3416666666666667" />
       </map>
     </option>
   </component>
